@@ -6,7 +6,7 @@ This is a beginner-friendly project that recreates a simplified version of the c
 How to Run the Game
 1. Clone the repository:
 bash
-    git clone https://github.com/yourusername/super-mario-game.git
+    git clone https://github.com/bhataakib02/super-mario-game.git
     cd super-mario-game
 2. Install dependencies:
 bash
